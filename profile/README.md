@@ -1,5 +1,5 @@
 <h1 align="center">HDaIP Organization 🛡️</h1>
-<h3 align="center">Governance & Schutz des Decentralized Autonomous Ecosystems</h3>
+<h3 align="center">Governance & Schutz des Projekt sowie der Urheberrechte zu Historical Document and Information Processing (HDaIP) sowie Decentralized Autonomous Ecosystem (DAE)</h3>
 
 <p align="center">
   <em>Wahrung der Integrität von Infrastruktur, Daten und historischem Ursprung.</em>
@@ -8,10 +8,10 @@
 ---
 
 ### 🏛️ Zweck dieser Organisation
-Diese Organisation fungiert als offizielle strukturelle und rechtliche Hülle für das Projekt **HDaIP** und das übergeordnete *Decentralized Autonomous Ecosystem*. 
+Diese Organisation fungiert als offizielle strukturelle und rechtliche Hülle für das Projekt **HDaIP - Historical Document and Information Processing** und das übergeordnete *DAE - Decentralized Autonomous Ecosystem*. 
 
 Im Zeitalter von **Information Archaeology** und **Dark Data Analytics** ist die Authentizität von Daten und deren Ursprung ebenso schützenswert wie physische Kulturgüter. Die `hdaip` Organisation wurde ins Leben gerufen, um:
-*   Den Projektnamen **HDaIP** sowie dessen dezentrale Architektur vor Missbrauch, Fragmentierung und unberechtigten Urheberrechtsansprüchen (Copyright/Trademark Trolling) zu schützen.
+*   Den Projektnamen **HDaIP** und **DAE** sowie dessen dezentrale Architektur vor Missbrauch, Fragmentierung und unberechtigten Urheberrechtsansprüchen (Copyright/Trademark Trolling) zu schützen.
 *   Die Souveränität des Ökosystems zu gewährleisten.
 *   Als neutrale Governance-Instanz für das Sibling-Cluster-Netzwerk zu fungieren.
 
